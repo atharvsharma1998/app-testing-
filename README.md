@@ -1,4 +1,4 @@
-# app-testing-
+# Mobile-App-testing-Automation
 
 During my role as System Engineer at Mahindra in Research and Development Division, I was responsible for the testing and validation of smart cloud features in the development of the connected car application. Due to the constraints in the availability of physical hardware and the actual automobiles for testing, the process was often delayed, resulting in extended project timelines.
 
